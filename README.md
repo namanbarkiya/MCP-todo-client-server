@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/namanbarkiya-mcp-todo-client-server-badge.png)](https://mseep.ai/app/namanbarkiya-mcp-todo-client-server)
+
 # MCP AI Todo
 
 An end-to-end demo showing an API-first MCP approach: a FastAPI backend exposes both a REST API and an MCP endpoint; a Next.js client consumes the REST API for UI and can orchestrate via MCP for tool-driven actions.
