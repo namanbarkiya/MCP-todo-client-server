@@ -11,7 +11,7 @@ export default function HomePage() {
         <main className="mx-auto max-w-5xl p-4">
             <Card>
                 <CardHeader>
-                    <CardTitle>CSV Todo + MCP</CardTitle>
+                    <CardTitle>Todo via chat using MCP</CardTitle>
                 </CardHeader>
                 <CardContent>
                     <Tabs defaultValue="todo" className="w-full">

@@ -30,10 +30,13 @@ export default function RootLayout({
                         padding: 16,
                         borderBottom: "1px solid #eee",
                         marginBottom: 20,
+                        display: "flex",
+                        justifyContent: "center",
+                        alignItems: "center",
                     }}
                 >
-                    <div style={{ maxWidth: 640, margin: "0 auto" }}>
-                        <strong>MCP Todo</strong>
+                    <div>
+                        <strong>MCP Todo App</strong>
                     </div>
                 </header>
                 <div style={{ padding: 20 }}>{children}</div>
